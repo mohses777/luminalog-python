@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>luminalog</h1>
+  <h1>luminalog-sdk</h1>
   <p>Privacy-first logging with AI-powered debugging for Python</p>
   
-  [![PyPI version](https://img.shields.io/pypi/v/luminalog.svg)](https://pypi.org/project/luminalog/)
-  [![Python Versions](https://img.shields.io/pypi/pyversions/luminalog.svg)](https://pypi.org/project/luminalog/)
+  [![PyPI version](https://img.shields.io/pypi/v/luminalog-sdk.svg)](https://pypi.org/project/luminalog-sdk/)
+  [![Python Versions](https://img.shields.io/pypi/pyversions/luminalog-sdk.svg)](https://pypi.org/project/luminalog-sdk/)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   <p>
@@ -31,15 +31,15 @@
 ## Installation
 
 ```bash
-pip install luminalog
+pip install luminalog-sdk
 ```
 
 ```bash
-poetry add luminalog
+poetry add luminalog-sdk
 ```
 
 ```bash
-pipenv install luminalog
+pipenv install luminalog-sdk
 ```
 
 ## Quick Start
