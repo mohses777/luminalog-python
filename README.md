@@ -42,6 +42,10 @@ poetry add luminalog-sdk
 pipenv install luminalog-sdk
 ```
 
+## Example App
+
+A runnable local example lives in [examples/basic](./examples/basic).
+
 ## Quick Start
 
 ```python

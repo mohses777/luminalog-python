@@ -14,7 +14,7 @@ import requests
 
 from .types import LogLevel, LogEntry, LogBatch, ErrorPayload, IngestionResponse
 
-DEFAULT_ENDPOINT = "https://api.luminalog.cloud/v1/logs"
+DEFAULT_ENDPOINT = "https://api-dev.luminalog.cloud/v1/logs"
 DEFAULT_BATCH_SIZE = 100
 MIN_BATCH_SIZE = 1
 MAX_BATCH_SIZE = 500
