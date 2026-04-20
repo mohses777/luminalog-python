@@ -11,7 +11,7 @@ from .logger import (
 )
 from .types import LogLevel, LogEntry, ErrorPayload
 
-__version__ = "1.0.0"
+__version__ = "1.1.0"
 __all__ = [
     "LuminaLog",
     "generate_trace_id",

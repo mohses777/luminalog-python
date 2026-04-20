@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="luminalog-sdk",
-    version="1.0.0",
+    version="1.1.0",
     author="LuminaLog Team",
     author_email="support@luminalog.cloud",
     description="LuminaLog SDK - Privacy-first logging with AI-powered debugging",
